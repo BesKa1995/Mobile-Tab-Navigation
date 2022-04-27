@@ -28,6 +28,7 @@ body {
   object-fit: cover;
   width: 100%;
   height: calc(100% - 6rem);
+  transition: 2s ease;
 }
 
 .phone .content.show {
